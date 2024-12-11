@@ -10,7 +10,7 @@
 ```
 
 ```typescript
-import { useToast } from '@/uni_modules/wot-design-uni'
+import { useToast } from 'wot-design-uni'
 
 const toast = useToast()
 
